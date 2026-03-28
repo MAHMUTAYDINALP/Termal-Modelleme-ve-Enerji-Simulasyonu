@@ -2,6 +2,8 @@
 
 Bu proje, bir konuta veya binaya **güneş enerjisi destekli ısınma sistemi** kurmanın finansal ve fiziksel olarak "mantıklı olup olmadığını" hesaplayan bir karar destek (simülasyon) çekirdeğidir. Müşteri ön gösterimi (PoC) amacıyla geliştirilmiştir.
 
+NOT: Yeter veri sahada toplandıgı zaman veri işlenip parametrelerin etki miktarı hesaplanıp simüle edecek sistem oluşturulacaktır. 
+
 
 
 ## 🎯 Projenin Amacı
